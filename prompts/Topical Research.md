@@ -5,15 +5,15 @@ hosts:
 tags:
   - philosophy
   - pop-culture
-description: A prompt for research one or more topics.
+description: A prompt for researching one or more topics. Demonstrates comparing and contrasting multiple topics, as well as taking advantage of the context session to ask additional questions.
 mode:
   - web
   - work
 date-created: 03/19/2025 09:48 am
-date-modified: 03/19/2025 02:35 pm
+date-modified: 03/19/2025 02:55 PM
 ---
 
-# Research Prompts
+# Topical Research
 
 ## Research a Single Topic
 
