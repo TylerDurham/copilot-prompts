@@ -1,7 +1,7 @@
 ---
 industry: education
 hosts:
-  - "[[Microsoft Biz Chat]]"
+  - "[[Microsoft Copilot Chat Prompts]]"
 tags:
   - philosophy
   - pop-culture
@@ -10,7 +10,7 @@ mode:
   - web
   - work
 date-created: Friday, February 28th 2025, 12:02:54 pm
-date-modified: Friday, February 28th 2025, 1:37:46 pm
+date-modified: Friday, February 28th 2025, 1:56:27 pm
 ---
 
 # Hero's Journey vs. Plato's Cave

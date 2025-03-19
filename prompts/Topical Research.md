@@ -1,7 +1,7 @@
 ---
 industry: 
 hosts:
-  - "[[Microsoft Biz Chat Prompts]]"
+  - "[[Microsoft Copilot Chat Prompts]]"
 tags:
   - philosophy
   - pop-culture
@@ -10,7 +10,7 @@ mode:
   - web
   - work
 date-created: 03/19/2025 09:48 am
-date-modified: 03/19/2025 02:57 PM
+date-modified: 03/19/2025 03:08 PM
 ---
 
 # Topical Research

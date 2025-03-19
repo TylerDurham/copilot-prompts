@@ -1,12 +1,16 @@
 ---
-tags: 
+tags:
+  - communications
+  - news
 date-created: Friday, February 28th 2025, 1:42:58 pm
-date-modified: Friday, February 28th 2025, 1:46:29 pm
+date-modified: Friday, February 28th 2025, 1:56:39 pm
 mode:
   - web
   - work
 hosts:
-  - "[[Microsoft Biz Chat]]"
+  - "[[Microsoft Copilot Chat Prompts]]"
+description: A prompt for creating *Newsletters* on a specific *topic*. Shows how *Copilot* can use a template for formatting output.
+industry: 
 ---
 
 # Newsletter

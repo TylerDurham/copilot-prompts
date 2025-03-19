@@ -1,12 +1,12 @@
 ---
 industry: healthcare
 hosts:
-  - "[[Microsoft Biz Chat]]"
-  - "[[Microsoft Powerpoint]]"
+  - "[[Microsoft Copilot Chat Prompts]]"
+  - "[[Microsoft PowerPoint Prompts]]"
 aliases: []
 linter-yaml-title-alias: PowerPoint
 date-created: Friday, February 28th 2025, 12:02:54 pm
-date-modified: Friday, February 28th 2025, 1:33:27 pm
+date-modified: Friday, February 28th 2025, 1:56:43 pm
 ---
 
 # PowerPoint
