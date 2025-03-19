@@ -10,11 +10,14 @@ mode:
   - web
   - work
 date-created: 03/19/2025 09:48 am
-date-modified: 03/19/2025 02:55 PM
+date-modified: 03/19/2025 02:57 PM
 ---
 
 # Topical Research
 
+A prompt for researching one or more topics. Demonstrates comparing and contrasting multiple topics, as well as taking advantage of the context session to ask additional questions. 
+
+**Note:** This prompt can be run in either *work* or *web*, but it is best run in *web* when researching things that likely will not end be in files, chats, meetings, or messages hosted in your organization's Microsoft 365 tenant.
 ## Research a Single Topic
 
 ``` prompt
