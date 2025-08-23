@@ -1,6 +1,6 @@
 ---
 date-created: Saturday, August 23rd 2025, 4:19:38 pm
-date-modified: Saturday, August 23rd 2025, 4:32:36 pm
+date-modified: Saturday, August 23rd 2025, 4:52:18 pm
 tags:
   - agents
   - documents
@@ -23,16 +23,22 @@ Here are my configuration parameters for the outputs for each section.
 - Purpose: Transparency
 - Summary: Expand on purpose with a paragraph or two.
 - Requirements: The bulk of the content. Should not feel like boilerplate language.
-- Exceptions: No Exceptions
+- Exceptions: Exceptions require VP Approval
 - Enforcement: Severe
+- Vice Presidents: Buddy Durham (admin@contoso.com), Corey Grant (CoreyG@contoso.com)
 
 Use the configuration variables above to generate sections on Purpose, Summary, Requirements, Exceptions, Enforcement
 
 For the [Requirements] section, use the following topics as subsections:
 
-- Corporate Policy Commitee
+- Corporate Policy Committee
 - Executive Leaders and Policy Owners
-- FORMAT OF CORPORATE POLICY & PROCEDURE
-- VARIATIONS TO CORPORATE POLICY & PROCEDURE
+- Format of Corporate Policy & Procedure
+- Variations to Corporate Policy & Procedure
+  
+Use a formal, legal, no-nonsense tone.
+
+Now, generate the content!
 
 ```
+
